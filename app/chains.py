@@ -39,14 +39,14 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Thameem, a business development executive at AtliQ. AtliQ is an AI & Software Consulting company dedicated to facilitating
+            You are Thameem, a Software Engineer at XYZ. XYZ is an AI & Software Consulting company dedicated to facilitating
             the seamless integration of business processes through automated tools. 
             Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
             process optimization, cost reduction, and heightened overall efficiency. 
-            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
+            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of XYZ
             in fulfilling their needs.
-            Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-            Remember you are Mohan, BDE at AtliQ. 
+            Also add the most relevant ones from the following links to showcase XYZ portfolio: {link_list}
+            Remember you are Thameem, BDE at XYZ. 
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
